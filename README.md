@@ -30,20 +30,6 @@ By completing this project, we achieve the following:
   - `1` → Positive review
   - `0` → Negative review
 
-**Folder Structure:**
-aclImdb/
-├── train/
-│ ├── pos/
-│ ├── neg/
-├── test/
-│ ├── pos/
-│ ├── neg/
-
-yaml
-Copy code
-
----
-
 ## 🛠️ Technologies Used
 - Python
 - PyTorch
